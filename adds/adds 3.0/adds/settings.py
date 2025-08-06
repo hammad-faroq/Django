@@ -110,8 +110,8 @@ AUTHENTICATION_BACKENDS = (
     'social_core.backends.github.GithubOAuth2',  # GitHub social login
     'django.contrib.auth.backends.ModelBackend', # Local login with username/password
 )
-SOCIAL_AUTH_GITHUB_KEY='Ov23liNo18NolP1KDnp2'
-SOCIAL_AUTH_GITHUB_SECRET='4aa3801a453a66bdd49891daba4bc4f92be6e22f'
+SOCIAL_AUTH_GITHUB_KEY='git hub  Client key'
+SOCIAL_AUTH_GITHUB_SECRET='git hub key'
 
 
 
